@@ -75,17 +75,17 @@ themeDir = "themes"
     content = "The Computer Science department at Allegheny has allowed me to take a variety of courses across the department. I have throughly enjoyed learning and implementing concepts in the field of Data Analytics and that is what I've decided to focus my career in."
     [params.feature.button]
       caption = "View Works"
-      url = "slider-bg1.jpg"
+      url = "https://github.com/rauniyars"
 
 
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "Discover CS at Allegheny"
+    paragraph = "Learn more about what Allegheny College has to offer in terms of Computer Science. Come find your unique combination."
     [params.call.button]
-      url = "#"
-      text = "tell us your story"
+      url = "https://www.cs.allegheny.edu"
+      text = "find your story"
 
   [params.contact]
     enable = true
